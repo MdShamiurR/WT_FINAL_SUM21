@@ -1,0 +1,36 @@
+.bg-info-cust{
+    background-color: #feeae9;
+}
+
+.Carosel-Price{
+    color: #ff1872;
+}
+.btn-btn-warning{
+    background-image: linear-gradient(to bottom, #FF589B 0%, #FF136F 100%);
+    color: #fff;
+    border: none;
+    border-radius: 8px;
+    padding: 9px 25px;
+}
+.categories img{
+    width: 100px;
+}
+
+/* categories color  */
+
+.bg-warning-watch{
+    background-color: #ffa500;
+}
+.bg-warning-bags{
+    background-color: #da70d6;
+}
+.bg-warning-shoes{
+    background-color: #0000ff;
+}
+
+.box{
+    height: 300px;
+    background-color: #fceae8;
+    margin-top: 150px;
+    margin-bottom: 150px;
+}
